@@ -1,6 +1,6 @@
-测试:
-  url: test
+温哥华:
+  url: Vancouver
   date: 2024-12-20
   style: fullscreen
-  cover:(https://KingLear1606.github.io/picx-images-hosting/test/DSC_1715-已增强-降噪.83a6ph0x7o.jpg)
+  cover: test/DSC_1700.26lmiqu026.webp
   location: [49.280160532002434, -123.12745505680722]
